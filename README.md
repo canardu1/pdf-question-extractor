@@ -1,5 +1,7 @@
 # PDF Question Extractor
 
+[![Made by AtlasTech](https://img.shields.io/badge/Made%20by-AtlasTech-blue)](https://atlastech.it)
+
 A Python tool that extracts text from PDF documents and generates multiple-choice questions in Aiken format using LLaMA 3.2, with options for validation and GIFT format conversion.
 
 ## Features
